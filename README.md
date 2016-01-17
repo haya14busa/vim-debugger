@@ -18,7 +18,7 @@ vim-debugger is a Vim script debugger.
 | `>Current` | show current line and function in debug-mode with syntax highlight |
 | `>Break {lnum}` | add break point to {lnum} in a current function |
 | `>File` | show current file in debug-mode |
-| `>SID` | show <SID> in debug-mode |
+| `>SID` | show `<SID>` in debug-mode |
 | `>DebugHelp` | show help for debug-mode |
 | `>Sfuncs` | list script-local functions in debug-mode |
 
