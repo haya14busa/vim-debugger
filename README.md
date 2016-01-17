@@ -13,7 +13,7 @@ vim-debugger is a Vim script debugger.
 
 | command | description |
 | ------- | ----------- |
-| `:DebugOn | turn on debugging commands |
+| `:DebugOn` | turn on debugging commands |
 | `:Debugger` | add breakpoint |
 | `>Current` | show current line and function in debug-mode with syntax highlight |
 | `>Break {lnum}` | add break point to {lnum} in a current function |
